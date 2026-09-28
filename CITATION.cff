@@ -1,0 +1,24 @@
+# Replace this file's contents with your working group's own citation metadata after
+# instantiating the template, or delete it if the repository does not need to be citable.
+# Do not list AI tools as authors.
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+authors:
+- family-names: "YOUR_FAMILY_NAME"
+  given-names: "YOUR_GIVEN_NAME"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Collins"
+  given-names: "Kristina"
+  orcid: "https://orcid.org/0000-0002-3816-1948"
+title: "{{WORKING_GROUP_NAME}}"
+version: 0.1.0
+doi: "[DOI to be assigned]"
+date-released: "{{YYYY-MM-DD}}"
+url: "https://github.com/HamSCI/{{REPO_NAME}}"
+license: MIT
+keywords:
+  - HamSCI
+  - amateur radio
+  - space weather
+  - ionosphere
+  - citizen science
